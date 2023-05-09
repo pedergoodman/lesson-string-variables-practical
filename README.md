@@ -1,1 +1,1 @@
-# lesson-string-variables-practical
+# lesson-unit2-string-variables-practical
